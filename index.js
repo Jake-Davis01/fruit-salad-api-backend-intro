@@ -3,5 +3,5 @@ const port = process.env.PORT;
 const app = require("./app")
 
 app.listen(port, () => {
-    console.log(`Example app listening on port ${port}`);
+    console.log(`Big Fruit app listening on port ${port}`);
 });
